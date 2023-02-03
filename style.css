@@ -1,0 +1,16 @@
+.name,
+.shortBio {
+    text-align: center;
+}
+
+.Images {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.Images img {
+    width: 30%;
+    height: 30%;
+    margin-right: 10px;
+}
